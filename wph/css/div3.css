@@ -1,0 +1,34 @@
+#div3>p
+{
+	text-align: center;
+}
+#div3>img
+{
+	width:100%;
+}
+#div3_1
+{
+	display: flex;
+	padding: 0px 10px;
+
+	justify-content: space-between;
+}
+#div3_1>div
+{
+	width:24%;
+}
+#div3_1>div>img
+{
+	width:100%;
+}
+.bg_pink
+{
+	background-color: rgb(222, 61, 150);
+	color:white;
+	font-weight: bold;
+	padding:3px;
+}
+.color_gray
+{
+	color:rgb(152, 152, 159);
+}
